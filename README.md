@@ -96,7 +96,7 @@ Dashboard Sections:
 
 Dashboard Preview:
 
-![Dashboard](tableau/dashboard_preview.png)
+![Dashboard](tableau/dashboard_preview.PNG)
 
 ---
 
