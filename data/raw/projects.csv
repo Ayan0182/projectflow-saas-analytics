@@ -1,0 +1,100 @@
+project_id,project_code,company_id,created_by,project_name,project_status,priority,start_date,due_date
+1,PRJ0001,1,2,HR Management Portal,Active,Low,2024-10-12,2025-01-02
+2,PRJ0002,1,48,Security Monitoring System,Planning,Medium,2025-07-28,2025-09-11
+3,PRJ0003,1,14,Payment Integration System,Active,Low,2024-10-02,2025-02-10
+4,PRJ0004,1,42,Security Monitoring System,Active,Medium,2025-08-17,2026-02-05
+5,PRJ0005,1,56,Customer Analytics Platform,Completed,Low,2025-10-04,2026-06-07
+6,PRJ0006,1,18,Mobile App Redesign,Active,High,2025-02-06,2025-04-29
+7,PRJ0007,1,25,AI Chat Assistant,Active,Medium,2024-10-02,2025-03-16
+8,PRJ0008,1,3,Cloud Migration Project,Active,Critical,2025-10-03,2026-05-14
+9,PRJ0009,1,36,HR Management Portal,Completed,Medium,2024-09-25,2025-04-28
+10,PRJ0010,1,13,AI Chat Assistant,Planning,Medium,2025-06-07,2025-12-02
+11,PRJ0011,1,55,Payment Integration System,Completed,Medium,2024-09-25,2025-06-14
+12,PRJ0012,1,54,Marketing Automation Tool,Active,Medium,2025-07-07,2025-12-20
+13,PRJ0013,1,60,AI Chat Assistant,Completed,Low,2025-08-10,2026-01-12
+14,PRJ0014,1,30,Sales Dashboard,Active,High,2024-11-07,2025-09-18
+15,PRJ0015,1,44,Marketing Automation Tool,Completed,High,2024-12-06,2025-05-02
+16,PRJ0016,2,81,Sales Dashboard,Active,Medium,2024-09-12,2025-07-29
+17,PRJ0017,2,81,Payment Integration System,Completed,Medium,2024-10-18,2025-10-12
+18,PRJ0018,2,70,HR Management Portal,Active,High,2024-03-18,2025-01-17
+19,PRJ0019,2,88,Data Warehouse Setup,Active,Medium,2023-12-09,2024-03-18
+20,PRJ0020,2,92,AI Chat Assistant,Completed,High,2024-04-13,2024-07-30
+21,PRJ0021,3,118,Sales Dashboard,Completed,Medium,2024-07-12,2025-06-12
+22,PRJ0022,3,109,HR Management Portal,On Hold,High,2024-12-17,2025-01-21
+23,PRJ0023,3,116,AI Chat Assistant,Completed,Medium,2025-04-05,2025-09-18
+24,PRJ0024,3,113,Marketing Automation Tool,Active,Medium,2025-05-20,2026-02-06
+25,PRJ0025,3,123,HR Management Portal,On Hold,High,2024-04-23,2025-02-06
+26,PRJ0026,3,96,HR Management Portal,Completed,Medium,2025-08-02,2025-12-11
+27,PRJ0027,3,104,Mobile App Redesign,Active,High,2024-07-09,2025-05-06
+28,PRJ0028,3,93,Data Warehouse Setup,Active,Low,2025-08-05,2026-03-08
+29,PRJ0029,3,119,HR Management Portal,Active,Medium,2025-07-15,2026-05-31
+30,PRJ0030,3,95,Cloud Migration Project,Completed,Critical,2024-06-01,2025-03-30
+31,PRJ0031,3,97,Mobile App Redesign,Completed,High,2025-05-19,2025-09-10
+32,PRJ0032,3,109,Data Warehouse Setup,Active,Medium,2024-09-04,2025-07-07
+33,PRJ0033,3,116,Payment Integration System,Completed,Medium,2025-05-13,2026-05-10
+34,PRJ0034,3,107,Security Monitoring System,Active,Medium,2024-10-30,2024-12-31
+35,PRJ0035,3,93,Data Warehouse Setup,Completed,Medium,2024-10-12,2024-11-14
+36,PRJ0036,4,164,Customer Analytics Platform,Active,High,2025-03-10,2025-09-25
+37,PRJ0037,4,156,Payment Integration System,Active,Medium,2024-04-18,2025-02-18
+38,PRJ0038,4,160,Data Warehouse Setup,Active,High,2024-05-19,2025-01-12
+39,PRJ0039,4,130,AI Chat Assistant,Completed,Medium,2024-06-18,2025-02-13
+40,PRJ0040,4,127,AI Chat Assistant,Planning,High,2024-11-07,2025-01-31
+41,PRJ0041,4,136,Payment Integration System,Active,Low,2024-07-18,2024-11-18
+42,PRJ0042,5,180,AI Chat Assistant,Active,High,2024-12-18,2025-10-25
+43,PRJ0043,5,168,Security Monitoring System,Completed,Critical,2024-06-15,2024-11-13
+44,PRJ0044,5,191,Cloud Migration Project,Active,High,2024-07-20,2024-09-18
+45,PRJ0045,5,189,Customer Analytics Platform,Cancelled,Medium,2024-07-19,2025-04-07
+46,PRJ0046,5,192,Security Monitoring System,Completed,Medium,2024-09-19,2025-01-24
+47,PRJ0047,5,178,Customer Analytics Platform,Completed,Medium,2024-09-24,2025-04-02
+48,PRJ0048,5,168,Data Warehouse Setup,Active,High,2024-05-25,2025-03-22
+49,PRJ0049,5,168,Security Monitoring System,Planning,Low,2024-07-15,2025-06-14
+50,PRJ0050,5,208,Payment Integration System,Active,High,2024-05-30,2025-04-16
+51,PRJ0051,6,222,Data Warehouse Setup,Planning,Medium,2024-10-14,2025-08-29
+52,PRJ0052,6,240,HR Management Portal,Active,High,2024-09-15,2025-02-14
+53,PRJ0053,6,245,Mobile App Redesign,Completed,Medium,2024-05-06,2024-11-13
+54,PRJ0054,6,224,Customer Analytics Platform,Active,Critical,2025-01-10,2025-04-01
+55,PRJ0055,6,254,Payment Integration System,Active,Low,2024-01-29,2024-08-24
+56,PRJ0056,6,224,Payment Integration System,Active,Low,2025-03-18,2026-01-20
+57,PRJ0057,6,239,Data Warehouse Setup,Cancelled,High,2024-12-17,2025-10-13
+58,PRJ0058,6,255,HR Management Portal,On Hold,Low,2023-12-27,2024-04-03
+59,PRJ0059,7,314,AI Chat Assistant,Completed,Low,2024-06-13,2024-12-04
+60,PRJ0060,7,271,Marketing Automation Tool,Active,Medium,2025-02-18,2025-08-02
+61,PRJ0061,7,289,HR Management Portal,On Hold,High,2024-12-29,2025-03-16
+62,PRJ0062,7,285,HR Management Portal,Planning,Medium,2025-03-05,2025-06-09
+63,PRJ0063,7,274,Mobile App Redesign,Completed,Medium,2025-03-07,2025-11-10
+64,PRJ0064,7,258,AI Chat Assistant,Planning,High,2025-01-27,2025-05-13
+65,PRJ0065,7,260,Marketing Automation Tool,Completed,Low,2025-01-19,2025-04-24
+66,PRJ0066,7,277,Marketing Automation Tool,Completed,High,2024-05-06,2024-06-25
+67,PRJ0067,7,280,Payment Integration System,Completed,Medium,2025-07-19,2026-02-15
+68,PRJ0068,8,343,Data Warehouse Setup,Completed,High,2026-06-14,2026-11-12
+69,PRJ0069,8,327,Mobile App Redesign,Completed,Low,2026-06-04,2026-12-21
+70,PRJ0070,8,343,Payment Integration System,Active,High,2026-04-23,2026-07-17
+71,PRJ0071,8,319,Cloud Migration Project,Active,High,2025-09-30,2026-06-22
+72,PRJ0072,8,336,Payment Integration System,Active,Medium,2025-09-14,2026-05-06
+73,PRJ0073,8,334,AI Chat Assistant,On Hold,Medium,2025-09-03,2026-08-27
+74,PRJ0074,8,342,Security Monitoring System,Active,Low,2025-12-04,2026-05-16
+75,PRJ0075,8,354,HR Management Portal,Planning,Medium,2025-06-18,2026-01-10
+76,PRJ0076,8,337,Sales Dashboard,Completed,Medium,2026-03-27,2026-11-09
+77,PRJ0077,8,353,Payment Integration System,Active,High,2026-06-22,2026-07-22
+78,PRJ0078,8,351,Payment Integration System,Active,Low,2025-12-10,2026-06-27
+79,PRJ0079,8,337,AI Chat Assistant,Completed,Medium,2026-02-01,2026-08-08
+80,PRJ0080,8,343,Marketing Automation Tool,Active,Medium,2026-02-23,2026-05-29
+81,PRJ0081,9,408,Sales Dashboard,Completed,High,2025-02-25,2026-02-05
+82,PRJ0082,9,385,Sales Dashboard,Active,Low,2025-05-12,2025-11-04
+83,PRJ0083,9,393,Data Warehouse Setup,Completed,Medium,2024-11-09,2025-07-23
+84,PRJ0084,9,409,Payment Integration System,Active,High,2025-03-08,2025-07-02
+85,PRJ0085,9,371,HR Management Portal,Active,Medium,2025-06-27,2026-01-14
+86,PRJ0086,9,414,Payment Integration System,Completed,Medium,2024-09-10,2025-01-19
+87,PRJ0087,9,367,Customer Analytics Platform,Active,Medium,2024-10-08,2024-12-14
+88,PRJ0088,9,392,Data Warehouse Setup,Active,Medium,2025-03-15,2025-12-23
+89,PRJ0089,10,421,Customer Analytics Platform,Completed,High,2024-02-14,2024-05-08
+90,PRJ0090,10,430,Payment Integration System,Active,Critical,2024-11-14,2025-09-05
+91,PRJ0091,10,418,Security Monitoring System,Active,High,2024-06-06,2025-02-24
+92,PRJ0092,10,442,Cloud Migration Project,Completed,Critical,2023-12-20,2024-11-18
+93,PRJ0093,10,441,Cloud Migration Project,Completed,High,2024-03-23,2025-01-05
+94,PRJ0094,10,443,Security Monitoring System,Active,Low,2024-05-18,2025-02-15
+95,PRJ0095,10,425,Payment Integration System,Completed,Medium,2024-05-30,2025-03-22
+96,PRJ0096,10,437,Payment Integration System,Active,Low,2024-06-17,2024-12-10
+97,PRJ0097,10,425,Marketing Automation Tool,Active,Medium,2024-02-10,2024-05-20
+98,PRJ0098,10,424,Sales Dashboard,Completed,High,2023-12-29,2024-02-29
+99,PRJ0099,10,430,Marketing Automation Tool,Active,Medium,2024-05-12,2024-09-24

@@ -1,0 +1,16 @@
+subscription_id,company_id,plan_name,monthly_price,start_date,end_date,subscription_status
+1,1,pro,4999,2024-07-17,2025-02-17,expired
+2,1,enterprise,19999,2025-02-17,,active
+3,2,free,0,2023-06-28,2024-07-01,expired
+4,2,pro,4999,2024-07-01,,active
+5,3,free,0,2024-03-23,,active
+6,4,free,0,2024-02-12,2024-09-08,expired
+7,4,pro,4999,2024-09-08,,active
+8,5,pro,4999,2024-03-27,,active
+9,6,pro,4999,2023-11-23,2024-06-12,expired
+10,6,enterprise,19999,2024-06-12,,active
+11,7,starter,999,2024-03-16,,active
+12,8,free,0,2025-02-17,,active
+13,9,free,0,2024-06-25,,active
+14,10,starter,999,2023-09-13,2024-06-01,expired
+15,10,pro,4999,2024-06-01,,active
