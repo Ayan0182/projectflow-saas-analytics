@@ -3,8 +3,19 @@
 -- Purpose: Validate Data Quality and Relationships
 -- ==================================================
 
+
+
+
 use projectflow_analytics;
 show tables;
+
+select * from companies c;
+select * from activity_logs al ;
+select * from projects;
+
+select industry, sum(employee_count) from companies c 
+group by industry;
+
 
 -- ==================================================
 -- 1. Check Total Records
